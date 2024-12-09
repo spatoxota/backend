@@ -7,7 +7,6 @@ jsonschema-specifications==2024.10.1
 pyinstaller-hooks-contrib==2024.6
 certifi==2024.2.2
 pefile==2023.2.7
-pywin32==308
 setuptools==63.2.0
 cryptography==38.0.1
 gevent==24.2.1
